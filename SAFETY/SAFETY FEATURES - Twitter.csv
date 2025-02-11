@@ -1,0 +1,9 @@
+Year,Safety Feature,Description,Purpose,Motivation
+2021,Safety Mode,Automatically blocks accounts that send harmful or abusive tweets 7.,To reduce disruptive interactions and protect users from harassment 7.,"To address concerns about online harassment and abuse, particularly towards women and journalists 7."
+2024,Unmention,Allows users to remove themselves from conversations 8.,To give users more control over their interactions and protect their peace 8.,To provide a way for users to disengage from unwanted or unproductive conversations 8.
+2024,Sensitive Content Warning,Labels tweets that may contain sensitive content 9.,To give users control over their exposure to potentially offensive material 9.,To balance freedom of expression with the need to protect users from potentially harmful or upsetting content 9.
+2024,Quality Filter,"Filters out low-quality content, such as spam 9.",To improve the user experience by reducing the visibility of unwanted content 9.,To combat spam and improve the quality of content in users' feeds 9.
+2024,Muted Words,"Allows users to mute keywords, phrases, or hashtags 9.",To hide tweets containing specific terms from the user's timeline 9.,To give users more control over the topics and conversations they see in their feed 9.
+2024,Muted Accounts,Enables users to mute specific accounts 9.,To prevent tweets from muted accounts from appearing in the user's timeline 9.,To give users more control over the accounts they see in their feed without unfollowing them 9.
+2024,Blocked Accounts,Allows users to block accounts from interacting with them 9.,To prevent unwanted contact and harassment 9.,To empower users to manage their online interactions and avoid unwanted contact 9.
+2024,Reporting,Enables users to report tweets that violate community guidelines 9.,To facilitate the removal of harmful content and address user safety concerns 9.,To provide a mechanism for users to flag content that violates community standards 9.
